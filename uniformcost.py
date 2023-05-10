@@ -2,7 +2,6 @@
 print("\n\n------------------------------------")
 print("\tUniform Cost Search")
 print("------------------------------------")
-print("\tM. Sanaullah (RC-02)\n\n")
 
 graph = {
     'S': [['A', 5], ['B', 6], ['C', 1]],
